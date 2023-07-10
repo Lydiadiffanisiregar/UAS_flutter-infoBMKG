@@ -13,7 +13,7 @@ API cuaca yang digunakan berasal dari [Cuaca Gempa REST API](https://github.com/
 
 ## Fitur
 
-Berikut adalah fitur aplikasi ini:
+Berikut adalah fitur aplikasi ini menggunakan genyomontion:
 
 1. Menampilkan informasi cuaca suatu provinsi atau kota di Indonesia.
 
@@ -22,3 +22,6 @@ Berikut adalah fitur aplikasi ini:
 ![p](assets/3.png)
 ![p](assets/4.png)
 ![p](assets/WhatsApp%20Image%202023-07-10%20at%2013.55.26.jpg)
+
+
+## :)
