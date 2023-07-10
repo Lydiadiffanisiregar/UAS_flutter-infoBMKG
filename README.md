@@ -1,3 +1,10 @@
+| Nama | Lydia Diffani Siregar  |
+| ------ | ------- |
+| Nim | 312010498 |
+| Kelas  | TI.20.A3 |
+
+
+
 # Info BMKG
 
 Aplikasi untuk menampilkan informasi mengenai cuaca dan gempa yang berasal dari website [Data Terbuka BMKG](https://data.bmkg.go.id/). Aplikasi ini dibuat dengan menggunakan Flutter.
